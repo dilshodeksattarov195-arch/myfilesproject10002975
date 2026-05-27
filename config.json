@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedalidate",
+        "uuid": 10454150,
+        "checksum": "rggru8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
